@@ -178,11 +178,12 @@ Modify the block below if there are any special requirements.
     Participants must bring a laptop with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
-    Participants must have access to a device weith a recent web browser. A shell terminal may be
-    helpful for future work utilizing skills learned in the workshop, this is usually available on
-    Mac and Linux operating systems. For Windows <a href="https://gitforwindows.org/">GitBash</a>
-    or the <a href="https://learn.microsoft.com/en-us/windows/wsl/install">Windows Subsystem for Linux</a>
-    are recommended.
+    Participants will need a <a href="https://scinet.usda.gov/about/signup">SCINet account</a> and
+    access to a device with a recent web browser (e.g., any USDA-issued laptop). USDA-ARS employees may
+    <a href="https://scinet.usda.gov/about/signup#ars-employees">request a SCINet account</a> if they do
+    not already have one. A shell terminal may be helpful for future work utilizing skills learned in the
+    workshop, this is usually available on Mac and Linux operating systems. For Windows,
+    <a href="https://gitforwindows.org/">GitBash</a> is a good option.
   {% endif %}
   
 </p>
