@@ -178,10 +178,13 @@ Modify the block below if there are any special requirements.
     Participants must bring a laptop with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
-    Participants must have access to a computer with a
-    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+    Participants must have access to a device weith a recent web browser. A shell terminal may be
+    helpful for future work utilizing skills learned in the workshop, this is usually available on
+    Mac and Linux operating systems. For Windows <a href="https://gitforwindows.org/">GitBash</a>
+    or the <a href="https://learn.microsoft.com/en-us/windows/wsl/install">Windows Subsystem for Linux</a>
+    are recommended.
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  
 </p>
 
 {% comment %}
